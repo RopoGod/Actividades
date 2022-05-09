@@ -1,0 +1,45 @@
+En esta actividad tendrás que estudiar y analizar un sitio web existente.
+
+Para esta tarea no valen páginas web de tiendas online. Tendrá que ser la web de un emprendedor con más o menos la siguiente estructura de páginas: Página inicio, servicios o productos, sobre mi, contacto.
+
+
+
+Te pongo varias webs de ejemplo que podrías usar para hacer el trabajo:
+
+https://www.soyisabelromero.com/
+
+https://panaderiamanzano.es/
+
+https://christiangamero.com/
+
+https://sofiamyweddingplanner.es/
+
+https://leyrefotografia.com/
+
+https://danzadefogones.com
+
+
+
+Vamos a realizar el trabajo que se suele hacer antes de crear una página web, pero en lugar de tener que inventarnos una página web nueva, vamos a tomar como referencia una ya creada. Nos vamos a imaginar que ese es el resultado que queremos conseguir. 
+
+
+
+Teniendo eso como base tenemos que hacer un documento en PDF en el que incluyamos:
+
+- Descripción inicial de la web, el estilo que tiene, si es más serio o menos serio, las páginas que lleva.
+
+- El logotipo
+
+- La paleta de colores que se usan en la página.
+
+- Los tipos de letra o fuentes usadas para los encabezados y el texto de la página.
+
+- Elegir 4 páginas del sitio y hacer de todas ellas:
+
+    - Sketch
+
+    - Prototipo
+
+    - Mockup
+
+- La última parte del trabajo es la de analizar la página web sobre la que te has basado y describir algún cambio que crees que le podría venir bien.
