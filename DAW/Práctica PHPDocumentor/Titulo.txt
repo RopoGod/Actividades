@@ -1,0 +1,4 @@
+Instala y configura PHPDocumentor, generando un documento en pdf con sus capturas de pantalla y correspondientes explicaciones.
+Abre una aplicación que tengas desarrollada con PHP. Investiga y ponte a comentar trozos siguiendo el formato detallado en la documentación y genera la documentación y genera la documentación correspondiente. Documentación:
+https://docs.phpdoc.org/
+Añade la documentación generada en html y sube los archivos de la práctica en un documento comprimido.
