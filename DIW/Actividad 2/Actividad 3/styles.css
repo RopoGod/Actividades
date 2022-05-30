@@ -1,0 +1,30 @@
+.titulo {
+    background-color: rgb(55, 55, 55);
+    padding: 11px;
+    font-size: 25px;
+    color: white;
+}
+.container {
+    display: flex;
+}
+.foto {
+    margin: 5px;
+    border: 2px solid rgb(0, 0, 0);
+}
+img {
+    max-width: 100%;
+    height: auto;
+    padding: auto;
+}
+.tituloFoto {
+    background-color: rgb(196, 196, 196);
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+    padding: 5px;
+}
+.texto {
+    text-align: justify;
+    font-size: 12px;
+    padding: 5px;
+}
