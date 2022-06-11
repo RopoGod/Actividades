@@ -1,0 +1,39 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    padding: 30px;
+    background: #333333;
+    color: #ffffff;
+    font-size: 3em;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background: #ccc;
+    flex-direction: row;
+}
+
+nav a {
+    color: #555;
+    text-decoration: none;
+    padding: 15px;
+    border: 1px solid white;
+}
+
+nav a:hover {
+    background: #555;
+    color: #ccc;
+}
+
+@media screen and (max-width: 640px) {
+    nav {
+        display: flex;
+        justify-content: space-around;
+        background: #ccc;
+        flex-direction: column;
+    }
+}

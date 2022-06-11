@@ -1,0 +1,40 @@
+body{
+    margin:0;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    /* en dos líneas configura los espacios entre imágenes*/
+}
+
+img {
+    margin-top: 4px;
+    margin-right: 4px;
+    /* No tengo muy claro como hacerlo con flexbox */
+}
+
+/* Aquí el código responsive*/
+
+@media screen and (max-width:1225px) {
+    .container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center; 
+    }
+}
+
+@media (max-width:320px){
+    .container {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+    }   
+}

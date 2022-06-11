@@ -1,0 +1,14 @@
+.enlaces {
+    border: 1px solid red;
+    padding: 4px;
+    padding-right: 20px;
+}
+.capas {
+    display: inline;
+    border: 1px solid red;
+    padding: 4px;
+    padding-right: 20px;
+}
+.capa2 {
+    visibility: hidden;
+}
